@@ -50,8 +50,8 @@ I’m currently in my second year at **NIT AP** with a deep interest in **FPGA i
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](www.linkedin.com/in/vikhil-roshan-kar-dubba-a57b06260)
-- 📧 [Email](vikhilroshankardubba@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vikhil-roshan-kar-dubba-a57b06260)
+- 📧 [Email](mailto:vikhilroshankardubba@gmail.com)
 
 ---
 
