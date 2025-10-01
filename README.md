@@ -1,6 +1,6 @@
 # 👋 Hi, I'm D.Vikhil Roshan Kar
 
-I’m currently in my second year at **NIT AP** with a deep interest in **FPGA implementation** and **hardware design**. I'm also exploring **full-stack development**, **game development with C++**, and **web development**. Alongside my technical interests, I enjoy learning and applying new technologies in different domains.
+I’m currently in my second year at **NIT AP** with a deep interest in **FPGA implementation** and **hardware design**. I'm also exploring **full-stack development**, **DSA using Java**, **Core and Adv Java concepts** and **web development**. Alongside my technical interests, I enjoy learning and applying new technologies in different domains.
 
 ---
 
