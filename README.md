@@ -5,7 +5,7 @@ I’m currently in my second year at **NIT AP** with a deep interest in **FPGA i
 ---
 
 ## 🎓 Education
-- **2nd Year Student at NIT AP**
+- **3rd Year Student at NIT AP**
 - Major: Electronics and Communication Engineering
 - Interests: FPGA Design, Software Development
 
@@ -24,7 +24,7 @@ I’m currently in my second year at **NIT AP** with a deep interest in **FPGA i
 ## 🛠️ Skills
 
 - **Hardware Design**: Verilog, FPGA Implementation
-- **Programming Languages**: Python (learned in 1st year), C++, JavaScript
+- **Programming Languages**: Python (learned in 1st year), Java, JavaScript
 - **Web Development**: Full-Stack Development (HTML, CSS, JS, Node.js, Express, MongoDB)
 - **Tools**: Xilinx Vivado,  VS Code, GitHub
 
@@ -33,7 +33,6 @@ I’m currently in my second year at **NIT AP** with a deep interest in **FPGA i
 ## 📚 Current Learning
 
 - Full-Stack Development
-- Game Development with C++
 - FPGA-based system design
 
 
