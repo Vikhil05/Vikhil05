@@ -19,7 +19,7 @@ I’m currently in my pre-final year at **NIT AP** with a deep interest in **FPG
 - **Image Processing on FPGA (Minor Project)**  
   Worked on a **minor project** focused on **image processing using FPGA**, implementing basic edge detection and image manipulation techniques.
 
-  - **Creating Virtual Machine in Azure and Hosting Static Website**  
+- **Creating Virtual Machine in Azure and Hosting Static Website**  
   Deployed a static website by creating and configuring a **Virtual Machine on Microsoft Azure**, exploring resource management and cloud hosting principles.
 
 - **Serverless To-Do List Application**  
