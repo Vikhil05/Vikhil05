@@ -45,9 +45,11 @@ I’m currently in my pre-final year at **NIT AP** with a deep interest in **FPG
 - Full-Stack Development
 ---
 ## 🧠 Certifications
-- Microsoft Certified: Azure Fundamentals (Score: 885/1000)
-  - Credential ID: CeV8-uTbU
-  - Issued by Microsoft Learn
+
+[![Azure Fundamentals](https://www.credly.com/badges/fc930078-ebbd-43d2-90b3-aee6c12abc98/public_url)]
+Microsoft Certified: Azure Fundamentals (Score: 885/1000)  
+Credential ID: CeV8-uTbU  
+Issued by Microsoft Learn  
 
 ## ☁️ Internships
 - Cloud Computing Internship @ 1stop.ai in collaboration with IIT Guwahati
