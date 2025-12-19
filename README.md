@@ -1,6 +1,6 @@
 # 👋 Hi, I'm D.Vikhil Roshan Kar
 
-I’m currently in my pre-final year at **NIT AP** with a deep interest in **FPGA implementation** and **hardware design**. I'm also exploring **full-stack development**, **DSA using Java**, **Core and Adv Java concepts** and **web development**. Alongside my technical interests, I enjoy learning and applying new technologies in different domains.
+Electronics and Communication Engineering student at NIT Andhra Pradesh (2023–2027), skilled in **Advanced/Core Java**, **Spring Boot**, **cloud computing**, and **web technologies**. I am also interested in **FPGA-based projects** and hardware design using **Verilog**  Experienced with the PERN stack and currently exploring Machine learning with Python. Dedicated to building reliable, scalable software and hardware solutions.
 
 ---
 
