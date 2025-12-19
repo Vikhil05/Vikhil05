@@ -16,8 +16,8 @@ Electronics and Communication Engineering student at NIT Andhra Pradesh (2023–
 - **Binary Multiplier on FPGA**  
   Implemented a **binary multiplier** as part of the **DSD internals** project, utilizing FPGA for efficient computation.
 
-- **Image Processing on FPGA (Minor Project)**  
-  Worked on a **minor project** focused on **image processing using FPGA**, implementing basic edge detection and image manipulation techniques.
+- **Sobel Edge Detection on FPGA (Minor Project)**  
+  Worked on a **minor project** focused on **Sobel Edge Algorithm**, implementing basic edge detection and image manipulation techniques.
 
 - **Creating Virtual Machine in Azure and Hosting Static Website**  
   Deployed a static website by creating and configuring a **Virtual Machine on Microsoft Azure**, exploring resource management and cloud hosting principles.
@@ -34,7 +34,7 @@ Electronics and Communication Engineering student at NIT Andhra Pradesh (2023–
 
 - **Hardware Design**: Verilog, FPGA Implementation
 - **Programming Languages**: Python , Java, JavaScript
-- **Web Development**: Full-Stack Development (HTML, CSS, JS, Node.js, Express, PostgreSQL)
+- **Web Development**: PERN (HTML, CSS, JS, Node.js, Express, PostgreSQL)
 - **Cloud Computing**: Microsoft Azure, AWS (Lambda, API Gateway, Cognito, DynamoDB, EC2)  
 - **Tools**: Xilinx Vivado,  VS Code, GitHub
 
@@ -42,7 +42,7 @@ Electronics and Communication Engineering student at NIT Andhra Pradesh (2023–
 
 ## 📚 Current Learning
 
-- Full-Stack Development
+- Machine-Learning using Python
 ---
 ## 🧠 Certifications
 
