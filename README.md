@@ -67,7 +67,7 @@ Issued by Microsoft Learn
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vikhil-roshan-kar-dubba-a57b06260)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vikhil-roshan-kar-dubba/)
 - 📧 [Email](mailto:vikhilroshankardubba@gmail.com)
 
 ---
