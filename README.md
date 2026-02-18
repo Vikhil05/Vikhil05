@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikhil Roshan Kar</h1>
-# 💫 About Me:
+# 💫 About Me:<br>
 💻 Aspiring Software Developer focused on Java backend development<br>
 📊 Solved 150+ DSA problems using Java<br>
 ☁️ Built cloud-based and full-stack applications using AWS, Azure & PERN<br>
